@@ -10,6 +10,7 @@ namespace BobbyTest.Console
     {
         static void Main(string[] args)
         {
+            System.Console.WriteLine("Oculus Prime");
         }
     }
 }
